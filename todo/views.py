@@ -33,3 +33,4 @@ def delete(request,pk):
     todo.delete()
     return redirect('/')
 
+#just a simple
